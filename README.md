@@ -5,4 +5,7 @@ The [`github-release`](https://github.com/aktau/github-release) command line too
 To build a new image, run:
 
     make build
+
+And then, to push to [hub.docker.com](https://hub.docker.com/r/regis/github-release):
+
     make push
